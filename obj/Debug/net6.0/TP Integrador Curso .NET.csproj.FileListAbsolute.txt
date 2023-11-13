@@ -1,0 +1,15 @@
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\bin\Debug\net6.0\TP Integrador Curso .NET.exe
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\bin\Debug\net6.0\TP Integrador Curso .NET.deps.json
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\bin\Debug\net6.0\TP Integrador Curso .NET.runtimeconfig.json
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\bin\Debug\net6.0\TP Integrador Curso .NET.dll
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\bin\Debug\net6.0\TP Integrador Curso .NET.pdb
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.csproj.AssemblyReference.cache
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.AssemblyInfoInputs.cache
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.AssemblyInfo.cs
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.dll
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\refint\TP Integrador Curso .NET.dll
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.pdb
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\TP Integrador Curso .NET.genruntimeconfig.cache
+C:\Users\Franco\source\repos\TP Integrador Curso .NET\obj\Debug\net6.0\ref\TP Integrador Curso .NET.dll
